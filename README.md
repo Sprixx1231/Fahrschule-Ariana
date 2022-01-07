@@ -1,5 +1,4 @@
-![Latest Stable Version: 0.1.0](https://img.shields.io/badge/version-v0.1.0-blue)![Javascript](https://img.shields.io/badge/Language-JavaScript-yellow)
-
+![Latest Stable Version: 0.1.0](https://img.shields.io/badge/version-v0.1.0-blue)![Javascript](https://img.shields.io/badge/Language-JavaScript-yellow)![HTML](https://img.shields.io/badge/Language-HTML-red)![React](https://img.shields.io/badge/Language-HTML-red)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

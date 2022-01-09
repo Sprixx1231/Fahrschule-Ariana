@@ -17,7 +17,7 @@ function App() {
             <Router>
                     <Navbar />
                 <Routes>
-                    <Route path='/' element={<Start/>} />
+                    <Route path='/' exact element={<Start/>} />
                     <Route path='/start' element={<Start/>} />
                     <Route path='/fuehrerscheinklassen' element={<FuehrerscheinKlassen/>} />
                     <Route path='/praktischer-unterricht' element={<PraktischerUnterricht/>} />

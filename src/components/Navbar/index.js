@@ -5,8 +5,8 @@ const Navbar = () => {
     return(
         <>
             <Nav>
-                <NavLink to="/">
-                    <h1> Logo</h1>
+                <NavLink to="/" className="logo">
+                    <img src={require('../../images/favicon.ico')} alt="LOGO" />
                 </NavLink>
                 <Bars />
                 <NavMenu>
